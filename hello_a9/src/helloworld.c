@@ -56,6 +56,8 @@ int main()
 
     print("Hello World praveen\n\r");
     print("Hello World new line\n\r");
+    print("Hello World another user added this line\n\r");
+
     cleanup_platform();
     return 0;
 }
