@@ -2,6 +2,7 @@
 <sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="hello_a9" location="C:/temp/git_workspace/hello_a9" platform="C:/Xilinx/sdx_19/SDx/2019.1/platforms/zc702/zc702.xpfm" platformUID="xilinx.com:zc702:zc702:1.0" systemProject="hello_a9_system" sysConfig="standalone" runtime="C/C++" cpu="standalone" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="0c92555eb8bbef59e01e174a738d1db8">
   <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1510629361" dirty="true">
     <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
   </configuration>
   <configuration name="Release" id="xilinx.gnu.armv7.exe.release.779431522" dirty="true">
     <configBuildOptions xsi:type="sdkproject:SdkOptions"/>

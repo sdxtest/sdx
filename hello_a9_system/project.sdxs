@@ -5,6 +5,10 @@
       <applications name="hello_a9" domainName="standalone" domainPrettyName="standalone" appBuildConfig="Debug"/>
       <options xsi:type="sdsproject:Option" gensdcard="true" dmclkid="2"/>
     </configBuildOptions>
+    <lastBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="hello_a9" domainName="standalone" domainPrettyName="standalone" appBuildConfig="Debug"/>
+      <options xsi:type="sdsproject:Option" gensdcard="true" dmclkid="2"/>
+    </lastBuildOptions>
   </configuration>
   <configuration name="Release">
     <configBuildOptions xsi:type="systemproject:SystemOptions">
