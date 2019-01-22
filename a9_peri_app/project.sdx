@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="a9_peri_app" location="C:/temp/git_workspace/a9_peri_app" platform="C:/temp/git_workspace/test_pl/export/test_pl/test_pl.xpfm" platformUID="xilinx.com:zc702::1.0(custom)" systemProject="a9_peri_app_system" sysConfig="sysconfig1" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="4a33e2919575edf33bbd9cef2c20e123">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.984752804">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.482026521" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="peripheral_tests"/>
+</sdkproject:SdkProject>

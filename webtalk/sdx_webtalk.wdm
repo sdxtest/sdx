@@ -1,0 +1,30 @@
+version = "1.0";
+clients =
+(
+	{ client_name = "project"; 
+		rules = (
+			{
+				context="software_version_and_target_device";
+				xml_map="software_version_and_target_device";
+				html_map="software_version_and_target_device";
+				html_format="UserEnvStyle";
+			},
+			{
+				context="user_environment";
+				xml_map="user_environment";
+				html_map="user_environment";
+				html_format="UserEnvStyle";
+			}
+		);
+     },
+	{ client_name = "sdx"; 
+		rules = (
+			{
+				context="sdx\\\\platform/1548138293300";
+				xml_map="sdx\\\\platform/1548138293300";
+				html_map="sdx\\\\platform/1548138293300";
+				html_format="UnisimStatsStyle";
+			}
+		);
+     }
+);
