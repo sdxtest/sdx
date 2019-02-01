@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="hello_a9" location="C:/temp/git_workspace/hello_a9" platform="C:/XilinxSDx1stFeb/SDx/2019.1/platforms/zc706/zc706.xpfm" platformUID="xilinx.com:zc706:zc706:1.0" systemProject="hello_a9_system" sysConfig="standalone" runtime="C/C++" cpu="standalone" cpuInstance="ps7_cortexa9_0" os="standalone" dimmRepoPath="" mssSignature="a2c1c0d6aeb8f987563487a6693275ac">
-  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1510629361">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1510629361" dirty="true">
     <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
     <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
   </configuration>
