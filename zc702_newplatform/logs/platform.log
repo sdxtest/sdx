@@ -1,0 +1,931 @@
+TRACE::2019-02-01.14:56:34::SCWPlatform:: First log statement 
+TRACE::2019-02-01.14:56:34::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:34::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:34::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Got new hwdb zc702_wrapper_0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:36::SCWWriter::formatted JSON is {
+	"platformName":	"zc702_newplatform",
+	"sprVersion":	"1.1",
+	"mode":	"gui",
+	"dsaType":	"Expandable",
+	"platformDesc":	"zc702_newplatform",
+	"platHandOff":	"C:/XilinxSDx1stFeb/SDx/2019.1/platforms/zc702/hw/zc702.dsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2019-02-01.14:56:36::SCWWriter::formatted JSON is {
+	"platformName":	"zc702_newplatform",
+	"sprVersion":	"1.1",
+	"mode":	"gui",
+	"dsaType":	"Expandable",
+	"platformDesc":	"zc702_newplatform",
+	"platHandOff":	"C:/XilinxSDx1stFeb/SDx/2019.1/platforms/zc702/hw/zc702.dsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"sysconfig1",
+	"systems":	[{
+			"systemName":	"sysconfig1",
+			"systemDesc":	"sysconfig1",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"sysconfig1",
+			"sysBootDir":	""
+		}]
+}
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Opened existing hwdb zc702_wrapper_0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Opened existing hwdb zc702_wrapper_0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:36::Linkgen::coult not find default memory assigned to the heap
+TRACE::2019-02-01.14:56:36::Linkgen::Checking with the default data memory.
+TRACE::2019-02-01.14:56:36::Linkgen::The default data memory is ps7_ddr_0
+TRACE::2019-02-01.14:56:36::Linkgen::The defaumemory size allocated to the heap is 0X2CC19999
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Opened existing hwdb zc702_wrapper_0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:36::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::No sw design opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::mss does not exists  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::Creating sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::Doing writemss at C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::Completed writing the mss file at C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Opened existing hwdb zc702_wrapper_0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:36::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Opened existing hwdb zc702_wrapper_0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:36::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::Succeded at setting sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Opened existing hwdb zc702_wrapper_0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:36::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Opened existing hwdb zc702_wrapper_0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:36::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Opened existing hwdb zc702_wrapper_0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:36::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWWriter::formatted JSON is {
+	"platformName":	"zc702_newplatform",
+	"sprVersion":	"1.1",
+	"mode":	"gui",
+	"dsaType":	"Expandable",
+	"platformDesc":	"zc702_newplatform",
+	"platHandOff":	"C:/XilinxSDx1stFeb/SDx/2019.1/platforms/zc702/hw/zc702.dsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"sysconfig1",
+	"systems":	[{
+			"systemName":	"sysconfig1",
+			"systemDesc":	"sysconfig1",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"sysconfig1",
+			"sysBootDir":	"",
+			"sysActiveDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.0",
+					"mssFile":	"",
+					"compatibleApp":	"",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	"",
+						"isLscriptAutoGen":	"true",
+						"lscriptEditable":	"true",
+						"appStackSize":	"0X40000",
+						"appHeapSize":	"0X2CC19999",
+						"appCodeMem":	"ps7_ddr_0",
+						"appDataMem":	"ps7_ddr_0",
+						"appStackHeapMem":	"ps7_ddr_0"
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Opened existing hwdb zc702_wrapper_0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:36::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Opened existing hwdb zc702_wrapper_0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:36::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Opened existing hwdb zc702_wrapper_0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:36::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWWriter::formatted JSON is {
+	"platformName":	"zc702_newplatform",
+	"sprVersion":	"1.1",
+	"mode":	"gui",
+	"dsaType":	"Expandable",
+	"platformDesc":	"zc702_newplatform",
+	"platHandOff":	"C:/XilinxSDx1stFeb/SDx/2019.1/platforms/zc702/hw/zc702.dsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"sysconfig1",
+	"systems":	[{
+			"systemName":	"sysconfig1",
+			"systemDesc":	"sysconfig1",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"sysconfig1",
+			"sysBootDir":	"",
+			"sysActiveDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.0",
+					"mssFile":	"",
+					"compatibleApp":	"",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	"",
+						"isLscriptAutoGen":	"true",
+						"lscriptEditable":	"true",
+						"appStackSize":	"0X40000",
+						"appHeapSize":	"0X2CC19999",
+						"appCodeMem":	"ps7_ddr_0",
+						"appDataMem":	"ps7_ddr_0",
+						"appStackHeapMem":	"ps7_ddr_0"
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Opened existing hwdb zc702_wrapper_0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:36::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Opened existing hwdb zc702_wrapper_0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:36::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Opened existing hwdb zc702_wrapper_0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:36::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:36::SCWWriter::formatted JSON is {
+	"platformName":	"zc702_newplatform",
+	"sprVersion":	"1.1",
+	"mode":	"gui",
+	"dsaType":	"Expandable",
+	"platformDesc":	"zc702_newplatform",
+	"platHandOff":	"C:/XilinxSDx1stFeb/SDx/2019.1/platforms/zc702/hw/zc702.dsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"sysconfig1",
+	"systems":	[{
+			"systemName":	"sysconfig1",
+			"systemDesc":	"sysconfig1",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"sysconfig1",
+			"sysBootDir":	"",
+			"sysActiveDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.0",
+					"mssFile":	"",
+					"compatibleApp":	"",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	"",
+						"isLscriptAutoGen":	"true",
+						"lscriptEditable":	"true",
+						"appStackSize":	"0X40000",
+						"appHeapSize":	"0X2CC19999",
+						"appCodeMem":	"ps7_ddr_0",
+						"appDataMem":	"ps7_ddr_0",
+						"appStackHeapMem":	"ps7_ddr_0"
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2019-02-01.14:56:36::SCWPlatform::Clearing the existing platform
+TRACE::2019-02-01.14:56:36::SCWSystem::Clearing the existing sysconfig
+TRACE::2019-02-01.14:56:36::SCWSystem::Clearing the domains completed.
+TRACE::2019-02-01.14:56:36::SCWPlatform::Clearing the opened hw db.
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:36::SCWPlatform::Removing the HwDB with name C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: First log statement 
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:36::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:39::SCWPlatform::Got new hwdb zc702_wrapper_1
+TRACE::2019-02-01.14:56:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:39::SCWReader::Active system found as  sysconfig1
+TRACE::2019-02-01.14:56:39::SCWReader::Handling sysconfig sysconfig1
+TRACE::2019-02-01.14:56:39::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:39::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:39::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:39::SCWPlatform::Opened existing hwdb zc702_wrapper_1
+TRACE::2019-02-01.14:56:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:39::Linkgen::coult not find default memory assigned to the heap
+TRACE::2019-02-01.14:56:39::Linkgen::Checking with the default data memory.
+TRACE::2019-02-01.14:56:39::Linkgen::The default data memory is ps7_ddr_0
+TRACE::2019-02-01.14:56:39::Linkgen::The defaumemory size allocated to the heap is 0X2CC19999
+TRACE::2019-02-01.14:56:39::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:39::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:39::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:39::SCWPlatform::Opened existing hwdb zc702_wrapper_1
+TRACE::2019-02-01.14:56:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:39::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:39::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:39::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:39::SCWPlatform::Opened existing hwdb zc702_wrapper_1
+TRACE::2019-02-01.14:56:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:39::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:39::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:39::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2019-02-01.14:56:39::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2019-02-01.14:56:39::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:39::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:39::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:39::SCWPlatform::Opened existing hwdb zc702_wrapper_1
+TRACE::2019-02-01.14:56:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:39::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:39::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:39::SCWReader::No isolation master present  
+TRACE::2019-02-01.14:56:39::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:39::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:39::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:39::SCWPlatform::Opened existing hwdb zc702_wrapper_1
+TRACE::2019-02-01.14:56:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:39::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:39::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+LOG::2019-02-01.14:56:41::SCWPlatform::Started generating the artifacts platform zc702_newplatform
+TRACE::2019-02-01.14:56:41::SCWPlatform::Sanity checking of platform is completed
+TRACE::2019-02-01.14:56:41::SCWPlatform::Sanity checking of platform is completed
+LOG::2019-02-01.14:56:41::SCWPlatform::Started generating the artifacts for system configuration sysconfig1
+LOG::2019-02-01.14:56:41::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2019-02-01.14:56:41::SCWDomain::Generating domain artifcats
+TRACE::2019-02-01.14:56:41::SCWMssOS::Generating standalone artifcats
+TRACE::2019-02-01.14:56:41::SCWMssOS:: Copying the user libraries. 
+TRACE::2019-02-01.14:56:41::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:41::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:41::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:41::SCWPlatform::Opened existing hwdb zc702_wrapper_1
+TRACE::2019-02-01.14:56:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:41::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:41::SCWMssOS::No sw design opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:41::SCWMssOS::mss exists  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:41::SCWMssOS::Opened the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:41::SCWMssOS::Opened the sw design.  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:41::SCWMssOS::Completed writing the mss file at C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss
+TRACE::2019-02-01.14:56:41::SCWMssOS::No mss edits present, not copying mssfile into export location C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:56:41::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:56:41::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:56:41::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:56:41::SCWPlatform::Opened existing hwdb zc702_wrapper_1
+TRACE::2019-02-01.14:56:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:56:41::Linkgen::In reload
+TRACE::2019-02-01.14:56:41::Linkgen::delete ptr
+TRACE::2019-02-01.14:56:41::Linkgen::deleted ptr
+TRACE::2019-02-01.14:56:41::Linkgen::About to do lginit
+TRACE::2019-02-01.14:56:41::Linkgen::lginit completed
+TRACE::2019-02-01.14:56:41::SCWMssOS::Successfully generated linker script at C:/temp/git/zc702_newplatform/export/zc702_newplatform/sw/sysconfig1/standalone_domain/lscript.ld
+TRACE::2019-02-01.14:56:41::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2019-02-01.14:56:41::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2019-02-01.14:56:41::SCWMssOS:: Generating the FSBL Application  
+TRACE::2019-02-01.14:56:50::SCWMssOS::System Command Ran  cd  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app & make 
+TRACE::2019-02-01.14:56:50::SCWMssOS:: Command Ran  cd  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app & make 
+make -C zynq_fsbl_bsp
+make[1]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp'
+"Running Make include in ps7_cortexa9_0/libsrc/canps_v3_2/src"
+make -C ps7_cortexa9_0/libsrc/canps_v3_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/canps_v3_2/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/canps_v3_2/src'
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src'
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src'
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/ddrps_v1_0/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/ddrps_v1_0/src'
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/devcfg_v3_5/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/devcfg_v3_5/src'
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/dmaps_v2_4/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/dmaps_v2_4/src'
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_9/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/emacps_v3_9/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/emacps_v3_9/src'
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/gpiops_v3_4/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/gpiops_v3_4/src'
+"Running Make include in ps7_cortexa9_0/libsrc/iicps_v3_8/src"
+make -C ps7_cortexa9_0/libsrc/iicps_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/iicps_v3_8/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/iicps_v3_8/src'
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/qspips_v3_5/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/qspips_v3_5/src'
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_0/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v4_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scugic_v4_0/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scugic_v4_0/src'
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scutimer_v2_1/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scutimer_v2_1/src'
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scuwdt_v2_1/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scuwdt_v2_1/src'
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/sdps_v3_7/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/sdps_v3_7/src'
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_0/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v7_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7_0/src'
+make[3]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7_0/src/profile'
+make[3]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7_0/src/profile'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7_0/src'
+"Running Make include in ps7_cortexa9_0/libsrc/ttcps_v3_8/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/ttcps_v3_8/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/ttcps_v3_8/src'
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/uartps_v3_7/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/uartps_v3_7/src'
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/usbps_v2_4/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/usbps_v2_4/src'
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xadcps_v2_3/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xadcps_v2_3/src'
+"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v4_1/src"
+make -C ps7_cortexa9_0/libsrc/xilffs_v4_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilffs_v4_1/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilffs_v4_1/src'
+"Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_5/src"
+make -C ps7_cortexa9_0/libsrc/xilrsa_v1_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilrsa_v1_5/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilrsa_v1_5/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/canps_v3_2/src"
+make -C ps7_cortexa9_0/libsrc/canps_v3_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/canps_v3_2/src'
+"Compiling canps"
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/canps_v3_2/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src'
+"Compiling coresightps_dcc"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src'
+"Compiling cpu_cortexa9"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/ddrps_v1_0/src'
+"Compiling ddrps"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/ddrps_v1_0/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/devcfg_v3_5/src'
+"Compiling devcfg"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/devcfg_v3_5/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/dmaps_v2_4/src'
+"Compiling dmaps"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/dmaps_v2_4/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_9/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/emacps_v3_9/src'
+"Compiling emacps"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/emacps_v3_9/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/gpiops_v3_4/src'
+"Compiling gpiops"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/gpiops_v3_4/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/iicps_v3_8/src"
+make -C ps7_cortexa9_0/libsrc/iicps_v3_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/iicps_v3_8/src'
+"Compiling iicps"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/iicps_v3_8/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/qspips_v3_5/src'
+"Compiling qspips"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/qspips_v3_5/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_0/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v4_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scugic_v4_0/src'
+"Compiling scugic"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scugic_v4_0/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scutimer_v2_1/src'
+"Compiling scutimer"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scutimer_v2_1/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scuwdt_v2_1/src'
+"Compiling scuwdt"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/scuwdt_v2_1/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/sdps_v3_7/src'
+"Compiling sdps"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/sdps_v3_7/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_0/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v7_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7_0/src'
+"Compiling standalone"
+In file included from usleep.c:56:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xil_sleeptimer.c:51:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:49:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:53:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/standalone_v7_0/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v3_8/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/ttcps_v3_8/src'
+"Compiling ttcps"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/ttcps_v3_8/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/uartps_v3_7/src'
+"Compiling uartps"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/uartps_v3_7/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/usbps_v2_4/src'
+"Compiling usbps"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/usbps_v2_4/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xadcps_v2_3/src'
+"Compiling xadcps"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xadcps_v2_3/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/xilffs_v4_1/src"
+make -C ps7_cortexa9_0/libsrc/xilffs_v4_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilffs_v4_1/src'
+"Compiling XilFFs Library"
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilffs_v4_1/src'
+"Running Make libs in ps7_cortexa9_0/libsrc/xilrsa_v1_5/src"
+make -C ps7_cortexa9_0/libsrc/xilrsa_v1_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -march=armv7-a"
+make[2]: Entering directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilrsa_v1_5/src'
+make[2]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp/ps7_cortexa9_0/libsrc/xilrsa_v1_5/src'
+'Finished building libraries'
+make[1]: Leaving directory 'C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/fsbl/app/zynq_fsbl_bsp'
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c sd.c -o sd.o -Izynq_fsbl_bsp/ps7_cortexa9_0/include -I.
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c nand.c -o nand.o -Izynq_fsbl_bsp/ps7_cortexa9_0/include -I.
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c nor.c -o nor.o -Izynq_fsbl_bsp/ps7_cortexa9_0/include -I.
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c image_mover.c -o image_mover.o -Izynq_fsbl_bsp/ps7_cortexa9_0/include -I.
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c md5.c -o md5.o -Izynq_fsbl_bsp/ps7_cortexa9_0/include -I.
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c fsbl_hooks.c -o fsbl_hooks.o -Izynq_fsbl_bsp/ps7_cortexa9_0/include -I.
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c main.c -o main.o -Izynq_fsbl_bsp/ps7_cortexa9_0/include -I.
+In file included from main.c:137:0:
+zynq_fsbl_bsp/ps7_cortexa9_0/include/xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c rsa.c -o rsa.o -Izynq_fsbl_bsp/ps7_cortexa9_0/include -I.
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c qspi.c -o qspi.o -Izynq_fsbl_bsp/ps7_cortexa9_0/include -I.
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c ps7_init.c -o ps7_init.o -Izynq_fsbl_bsp/ps7_cortexa9_0/include -I.
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c pcap.c -o pcap.o -Izynq_fsbl_bsp/ps7_cortexa9_0/include -I.
+In file included from pcap.c:100:0:
+zynq_fsbl_bsp/ps7_cortexa9_0/include/xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -c fsbl_handoff.S -o fsbl_handoff.o -Izynq_fsbl_bsp/ps7_cortexa9_0/include -I.
+arm-none-eabi-gcc -o executable.elf  sd.o  nand.o  nor.o  image_mover.o  md5.o  fsbl_hooks.o  main.o  rsa.o  qspi.o  ps7_init.o  pcap.o  fsbl_handoff.o -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec  -lrsa -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lrsa,-lxil,-lgcc,-lc,--end-group  -Wl,--gc-sections -Lzynq_fsbl_bsp/ps7_cortexa9_0/lib -L./ -Tlscript.ld
+TRACE::2019-02-01.14:57:25::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2019-02-01.14:57:25::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2019-02-01.14:57:25::SCWPlatform::Completed generating the artifacts for system configuration sysconfig1
+TRACE::2019-02-01.14:57:25::SCWPlatform::Started preparing the platform 
+TRACE::2019-02-01.14:57:25::SCWSystem::Writing the bif file for system config sysconfig1
+TRACE::2019-02-01.14:57:25::SCWSystem::dir created 
+TRACE::2019-02-01.14:57:25::SCWSystem::Writing the bif 
+TRACE::2019-02-01.14:57:25::SCWPlatform::Started writing the spfm file 
+TRACE::2019-02-01.14:57:25::SCWPlatform::Started writing the xpfm file 
+TRACE::2019-02-01.14:57:25::SCWMssOS::Writing the mss file completed C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:57:25::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:57:25::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:57:25::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:57:25::SCWPlatform::Opened existing hwdb zc702_wrapper_1
+TRACE::2019-02-01.14:57:25::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:57:25::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:57:25::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:57:25::SCWWriter::formatted JSON is {
+	"platformName":	"zc702_newplatform",
+	"sprVersion":	"1.1",
+	"mode":	"gui",
+	"dsaType":	"Expandable",
+	"platformDesc":	"zc702_newplatform",
+	"platHandOff":	"C:/XilinxSDx1stFeb/SDx/2019.1/platforms/zc702/hw/zc702.dsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"sysconfig1",
+	"systems":	[{
+			"systemName":	"sysconfig1",
+			"systemDesc":	"sysconfig1",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"sysconfig1",
+			"sysBootDir":	"",
+			"sysActiveDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.0",
+					"mssFile":	"",
+					"compatibleApp":	"",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	"",
+						"isLscriptAutoGen":	"true",
+						"lscriptEditable":	"true",
+						"appStackSize":	"0X40000",
+						"appHeapSize":	"0X2CC19999",
+						"appCodeMem":	"ps7_ddr_0",
+						"appDataMem":	"ps7_ddr_0",
+						"appStackHeapMem":	"ps7_ddr_0"
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2019-02-01.14:57:35::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:57:35::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:57:35::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:57:35::SCWPlatform::Opened existing hwdb zc702_wrapper_1
+TRACE::2019-02-01.14:57:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:57:35::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:57:35::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:57:35::SCWWriter::formatted JSON is {
+	"platformName":	"zc702_newplatform",
+	"sprVersion":	"1.1",
+	"mode":	"gui",
+	"dsaType":	"Expandable",
+	"platformDesc":	"zc702_newplatform",
+	"platHandOff":	"<platformDir>/resources/zc702.dsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"sysconfig1",
+	"systems":	[{
+			"systemName":	"sysconfig1",
+			"systemDesc":	"sysconfig1",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"sysconfig1",
+			"sysBootDir":	"",
+			"sysActiveDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.0",
+					"mssFile":	"",
+					"compatibleApp":	"",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	"",
+						"isLscriptAutoGen":	"true",
+						"lscriptEditable":	"true",
+						"appStackSize":	"0X40000",
+						"appHeapSize":	"0X2CC19999",
+						"appCodeMem":	"ps7_ddr_0",
+						"appDataMem":	"ps7_ddr_0",
+						"appStackHeapMem":	"ps7_ddr_0"
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2019-02-01.14:57:35::SCWPlatform::Clearing the existing platform
+TRACE::2019-02-01.14:57:35::SCWSystem::Clearing the existing sysconfig
+TRACE::2019-02-01.14:57:35::SCWSystem::Clearing the domains completed.
+TRACE::2019-02-01.14:57:35::SCWPlatform::Clearing the opened hw db.
+TRACE::2019-02-01.14:57:35::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:57:35::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:57:35::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:57:35::SCWPlatform::Removing the HwDB with name C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:57:35::SCWPlatform:: First log statement 
+TRACE::2019-02-01.14:57:35::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:57:35::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:57:35::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:57:37::SCWPlatform::Got new hwdb zc702_wrapper_2
+TRACE::2019-02-01.14:57:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:57:37::SCWReader::Active system found as  sysconfig1
+TRACE::2019-02-01.14:57:37::SCWReader::Handling sysconfig sysconfig1
+TRACE::2019-02-01.14:57:37::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:57:37::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:57:37::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:57:37::SCWPlatform::Opened existing hwdb zc702_wrapper_2
+TRACE::2019-02-01.14:57:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:57:37::Linkgen::coult not find default memory assigned to the heap
+TRACE::2019-02-01.14:57:37::Linkgen::Checking with the default data memory.
+TRACE::2019-02-01.14:57:37::Linkgen::The default data memory is ps7_ddr_0
+TRACE::2019-02-01.14:57:37::Linkgen::The defaumemory size allocated to the heap is 0X2CC19999
+TRACE::2019-02-01.14:57:37::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:57:37::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:57:37::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:57:37::SCWPlatform::Opened existing hwdb zc702_wrapper_2
+TRACE::2019-02-01.14:57:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:57:37::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:57:37::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:57:37::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:57:37::SCWPlatform::Opened existing hwdb zc702_wrapper_2
+TRACE::2019-02-01.14:57:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:57:37::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:57:37::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:57:37::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2019-02-01.14:57:37::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2019-02-01.14:57:37::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:57:37::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:57:37::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:57:37::SCWPlatform::Opened existing hwdb zc702_wrapper_2
+TRACE::2019-02-01.14:57:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:57:37::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:57:37::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:57:37::SCWReader::No isolation master present  
+TRACE::2019-02-01.14:57:39::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.14:57:39::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.14:57:39::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.14:57:39::SCWPlatform::Opened existing hwdb zc702_wrapper_2
+TRACE::2019-02-01.14:57:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.14:57:39::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.14:57:39::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.15:01:00::SCWPlatform::Clearing the existing platform
+TRACE::2019-02-01.15:01:00::SCWSystem::Clearing the existing sysconfig
+TRACE::2019-02-01.15:01:00::SCWSystem::Clearing the domains completed.
+TRACE::2019-02-01.15:01:00::SCWPlatform::Clearing the opened hw db.
+TRACE::2019-02-01.15:01:00::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.15:01:00::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.15:01:00::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.15:01:00::SCWPlatform::Removing the HwDB with name C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.15:01:00::SCWPlatform:: First log statement 
+TRACE::2019-02-01.15:01:00::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.15:01:00::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.15:01:00::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.15:01:02::SCWPlatform::Got new hwdb zc702_wrapper_4
+TRACE::2019-02-01.15:01:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.15:01:02::SCWReader::Active system found as  sysconfig1
+TRACE::2019-02-01.15:01:02::SCWReader::Handling sysconfig sysconfig1
+TRACE::2019-02-01.15:01:02::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.15:01:02::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.15:01:02::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.15:01:02::SCWPlatform::Opened existing hwdb zc702_wrapper_4
+TRACE::2019-02-01.15:01:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.15:01:02::Linkgen::coult not find default memory assigned to the heap
+TRACE::2019-02-01.15:01:02::Linkgen::Checking with the default data memory.
+TRACE::2019-02-01.15:01:02::Linkgen::The default data memory is ps7_ddr_0
+TRACE::2019-02-01.15:01:02::Linkgen::The defaumemory size allocated to the heap is 0X2CC19999
+TRACE::2019-02-01.15:01:02::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.15:01:02::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.15:01:02::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.15:01:02::SCWPlatform::Opened existing hwdb zc702_wrapper_4
+TRACE::2019-02-01.15:01:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.15:01:02::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.15:01:02::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.15:01:02::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.15:01:02::SCWPlatform::Opened existing hwdb zc702_wrapper_4
+TRACE::2019-02-01.15:01:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.15:01:02::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.15:01:02::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.15:01:02::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2019-02-01.15:01:02::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2019-02-01.15:01:02::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.15:01:02::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.15:01:02::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.15:01:02::SCWPlatform::Opened existing hwdb zc702_wrapper_4
+TRACE::2019-02-01.15:01:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.15:01:02::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.15:01:02::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.15:01:02::SCWReader::No isolation master present  
+TRACE::2019-02-01.15:01:02::SCWPlatform:: Platformds dir is C:/temp/git/zc702_newplatform/_platform/dsa
+TRACE::2019-02-01.15:01:02::SCWPlatform:: Platform Path C:/temp/git/zc702_newplatform/_platform/dsa/zc702.dsa
+TRACE::2019-02-01.15:01:02::SCWPlatform:: Unique name xilinx.com:zc702:zc702:1.0
+TRACE::2019-02-01.15:01:02::SCWPlatform::Opened existing hwdb zc702_wrapper_4
+TRACE::2019-02-01.15:01:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-02-01.15:01:02::SCWMssOS::Checking the sw design at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.15:01:02::SCWMssOS::Sw design exists and opened at  C:/temp/git/zc702_newplatform/_platform/sysconfig1/standalone_domain/mss/system.mss
+TRACE::2019-02-01.15:01:02::SCWWriter::formatted JSON is {
+	"platformName":	"zc702_newplatform",
+	"sprVersion":	"1.1",
+	"mode":	"gui",
+	"dsaType":	"Expandable",
+	"platformDesc":	"zc702_newplatform",
+	"platHandOff":	"<platformDir>/resources/zc702.dsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"sysconfig1",
+	"systems":	[{
+			"systemName":	"sysconfig1",
+			"systemDesc":	"sysconfig1",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"sysconfig1",
+			"sysBootDir":	"",
+			"sysActiveDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.0",
+					"mssFile":	"",
+					"compatibleApp":	"",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	"",
+						"isLscriptAutoGen":	"true",
+						"lscriptEditable":	"true",
+						"appStackSize":	"0X40000",
+						"appHeapSize":	"0X2CC19999",
+						"appCodeMem":	"ps7_ddr_0",
+						"appDataMem":	"ps7_ddr_0",
+						"appStackHeapMem":	"ps7_ddr_0"
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}

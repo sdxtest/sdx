@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="test_a53" location="C:/temp/git_workspace/test_a53" platform="C:/temp/git_workspace/zcu102_old/export/zcu102_old/zcu102_old.xpfm" platformUID="xilinx.com:zcu102:zcu102:1.0(custom)" systemProject="test_a53_system" sysConfig="a53_standalone" runtime="C/C++" cpu="a53_standalone" cpuInstance="psu_cortexa53_0" os="standalone" mssSignature="5969735e38bba9fd12a1e03dcd3e777d">
+  <configuration name="Debug" id="xilinx.gnu.arm.a53.exe.debug.1043779679" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.a53.exe.release.1492932417" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

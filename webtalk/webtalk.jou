@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1.0 (64-bit)
+# SW Build 2430218 on Sat Jan 19 12:03:04 MST 2019
+# 
+# Start of session at: Tue Jan 22 12:20:49 2019
+# Process ID: 16032
+# Current directory: C:/temp/git_workspace/webtalk
+# Command line: wbtcv.exe -mode batch -source sdx_webtalk.tcl
+# Log file: C:/temp/git_workspace/webtalk/webtalk.log
+# Journal file: C:/temp/git_workspace/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdx_webtalk.tcl

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?>
+<systemproject:SystemProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:systemproject="http://www.xilinx.com/systemproject" name="dc_vcu_dynamic_app_system" platform="/proj/xbuilds/2019.1_0205_0025/xbb/dsadev/opt/xilinx/platforms/xilinx_vcu1525_dynamic_6_0/xilinx_vcu1525_dynamic_6_0.xpfm" platformUID="xilinx:vcu1525:dynamic:6.0(custom)" sysConfig="standalone">
+  <configuration name="Debug">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="dc_vcu_dynamic_app" domainName="" domainPrettyName="" appBuildConfig="Emulation-SW"/>
+    </configBuildOptions>
+  </configuration>
+  <configuration name="Release">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="dc_vcu_dynamic_app" domainName="" domainPrettyName="" appBuildConfig="Emulation-SW"/>
+    </configBuildOptions>
+  </configuration>
+</systemproject:SystemProject>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?>
+<systemproject:SystemProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdsproject="http://www.xilinx.com/sdsproject" xmlns:systemproject="http://www.xilinx.com/systemproject" name="sds_zc702_git_system" platform="/proj/xbuilds/2019.1_continuous_latest/installs/lin64/SDx/2019.1/platforms/zc702/zc702.xpfm" platformUID="xilinx.com:zc702:zc702:1.0" sysConfig="standalone" runtime="C/C++">
+  <configuration name="Debug">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="sds_zc702_git" domainName="standalone" domainPrettyName="standalone" appBuildConfig="Debug"/>
+      <options xsi:type="sdsproject:Option" gensdcard="true" dmclkid="2" enableHwSwTrace="false" emuModelType="Debug"/>
+    </configBuildOptions>
+  </configuration>
+  <configuration name="Release">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="sds_zc702_git" domainName="standalone" domainPrettyName="standalone" appBuildConfig="Release"/>
+      <options xsi:type="sdsproject:Option" gensdcard="true" dmclkid="2"/>
+    </configBuildOptions>
+  </configuration>
+</systemproject:SystemProject>

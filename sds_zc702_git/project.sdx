@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdsproject:SDSProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdsproject="http://www.xilinx.com/sdsproject" name="sds_zc702_git" location="/wrk/xhdhdnobkup3/devivar/sandbox/Runtime/sdx_git_integration/sds_zc702_git" platform="/proj/xhdhdstaff/devivar/RDI_devivar_workspace/Rodin/HEAD/prep/rdi/sdx/platforms/zc702/zc702.xpfm" platformUID="xilinx.com:zc702:zc702:1.0" systemProject="sds_zc702_git_system" sysConfig="standalone" runtime="C/C++" cpu="standalone" cpuInstance="ps7_cortexa9_0" os="standalone" dimmRepoPath="" ConfigType="Debug">
+  <configuration name="Debug" id="com.xilinx.sdsoc.managedbuild.project.debug.80759680">
+    <configBuildOptions xsi:type="sdsproject:Option" insertapm="false" gensdcard="true" dmclkid="2" estimateSpeedup="true" enableHwSwTrace="false" traceApplication="false">
+      <accelerator name="mmult" filepath="src/mmult.cpp" clkid="2" location="/wrk/xhdhdnobkup3/devivar/work/github/sdx/sds_zc702_git/src/mmult.cpp"/>
+      <accelerator name="madd" filepath="src/madd.cpp" clkid="2" location="/wrk/xhdhdnobkup3/devivar/work/github/sdx/sds_zc702_git/src/madd.cpp"/>
+    </configBuildOptions>
+    <lastBuildOptions xsi:type="sdsproject:Option" insertapm="false" gensdcard="true" dmclkid="2" estimateSpeedup="true" enableHwSwTrace="false" traceApplication="false">
+      <accelerator name="mmult" filepath="src/mmult.cpp" clkid="2" location="/wrk/xhdhdnobkup3/devivar/work/github/sdx/sds_zc702_git/src/mmult.cpp"/>
+      <accelerator name="madd" filepath="src/madd.cpp" clkid="2" location="/wrk/xhdhdnobkup3/devivar/work/github/sdx/sds_zc702_git/src/madd.cpp"/>
+    </lastBuildOptions>
+  </configuration>
+  <configuration name="Release" id="com.xilinx.sdsoc.managedbuild.project.release.389030480">
+    <configBuildOptions xsi:type="sdsproject:Option" insertapm="false" gensdcard="true" dmclkid="2" enableHwSwTrace="false" traceApplication="false">
+      <accelerator name="mmult" filepath="src/mmult.cpp" clkid="2" location="/wrk/xhdhdnobkup3/devivar/work/github/sdx/sds_zc702_git/src/mmult.cpp"/>
+      <accelerator name="madd" filepath="src/madd.cpp" clkid="2" location="/wrk/xhdhdnobkup3/devivar/work/github/sdx/sds_zc702_git/src/madd.cpp"/>
+    </configBuildOptions>
+    <lastBuildOptions xsi:type="sdsproject:Option" insertapm="false" gensdcard="true" dmclkid="2" enableHwSwTrace="false" traceApplication="false">
+      <accelerator name="mmult" filepath="src/mmult.cpp" clkid="2" location="/wrk/xhdhdnobkup3/devivar/work/github/sdx/sds_zc702_git/src/mmult.cpp"/>
+      <accelerator name="madd" filepath="src/madd.cpp" clkid="2" location="/wrk/xhdhdnobkup3/devivar/work/github/sdx/sds_zc702_git/src/madd.cpp"/>
+    </lastBuildOptions>
+  </configuration>
+</sdsproject:SDSProject>
