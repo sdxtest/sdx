@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdsproject:SDSProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdsproject="http://www.xilinx.com/sdsproject" name="Feb8_Raju_Library" location="/scratch/Feb8_Raju/Feb8_Raju_Library" platform="/proj/xbuilds/2019.1_daily_latest/installs/lin64/SDx/2019.1/platforms/zc702/zc702.xpfm" platformUID="xilinx.com:zc702:zc702:1.0" systemProject="Feb8_Raju_Library_system" sysConfig="linux" runtime="C/C++" cpu="linux" cpuInstance="" os="linux" sharedlib="true" ConfigType="Debug">
+  <configuration name="Debug" id="com.xilinx.sdsoc.managedbuild.shared.project.debug.1650637404">
+    <configBuildOptions xsi:type="sdsproject:Option" insertapm="false" gensdcard="true" dmclkid="2" enableHwSwTrace="false" traceApplication="false">
+      <accelerator name="mmult_accel" filepath="src/mmult_accel.cpp" clkid="2" location="src/mmult_accel.cpp"/>
+      <accelerator name="madd_accel" filepath="src/madd_accel.cpp" clkid="2" location="src/madd_accel.cpp"/>
+    </configBuildOptions>
+  </configuration>
+  <configuration name="Release" id="com.xilinx.sdsoc.managedbuild.shared.project.release.332551842">
+    <configBuildOptions xsi:type="sdsproject:Option" insertapm="false" gensdcard="true" dmclkid="2" enableHwSwTrace="false" traceApplication="false">
+      <accelerator name="mmult_accel" filepath="src/mmult_accel.cpp" clkid="2" location="src/mmult_accel.cpp"/>
+      <accelerator name="madd_accel" filepath="src/madd_accel.cpp" clkid="2" location="src/madd_accel.cpp"/>
+    </configBuildOptions>
+  </configuration>
+</sdsproject:SDSProject>
